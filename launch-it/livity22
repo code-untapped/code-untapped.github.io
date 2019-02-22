@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Goku Profile</title>
+		<!-- link to main stylesheet -->
+		<link rel="stylesheet" type="text/css" href="css/GokuCV.css">
+	</head>
+	<body style="background-color:white;">
+		<nav>
+			<ul>
+				<li><a href="../">Home</a></li>
+				<li><a href="launch-it.html">Launch It Home</a></li>
+			</ul>
+		</nav>
+    
+		<br/> 
+		<h1 style="text-align:left;">Kakarot aka Goku - Personal Profile</h1>
+
+		<h2>Contact Details</h2>
+		<p style="font-family:verdana;">Phone number: 001234567.</p>
+		<p style="font-family:verdana;">Email Address: goku@dragonballz.com</p>
+		
+		<h2>Me and my team</h2>
+		<img src="https://upload.wikimedia.org/wikipedia/en/7/74/Dragon_Ball_Super_Key_visual.jpg" alt="Portrait" width="300" height="400">
+		<img src="http://www.ybt-shirt.com/wp-content/uploads/2018/09/dragon-ball-super-saiyan-blue-illustration-super-saiyan-blue-goku-portfolio-nicolas-mazire-dot-to-dot-cat.jpg" alt="Portrait" width="300" height="400">
+		
+		<h2>Experienced Z Fighter</h2>
+		<p> - Responsible for saving the world.</p>
+		<p> - Experienced in combating powerful aliens and even stronger enemies</p>
+		<p> - Recently saved the universe from an all powerful being.</p>
+		<p> - Lots of experience collecting Dragon Balls.</p>
+		<p> - Empowering others through leadership and self sacrifice</p>
+
+		<br/>
+		
+		<h2>Skills</h2>
+		<p>Can turn Super Saiyan Blue</p>
+		<p>Expert Martial artist</p>
+		<p>Can fire the Kamehameha</p>
+		<p>Expert at Fusion Techniques</p>
+		
+		<br/>
+
+		<h2>Video Testimony</h2>
+		<iframe width="560" height="315" src="https://www.youtube.com/embed/FHgm89hKpXU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	</body>
+</html> 
+© 2019 GitHub, Inc.
